@@ -129,7 +129,6 @@ class VGG19(nn.Module):
 
         self.fc_list = [self.fc17, self.fc18, self.fc19]
 
-
     # forward
     def forward(self, x):
         for conv in self.conv_list:  # 16 CONV
