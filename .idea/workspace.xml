@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6edd27d5-ebbd-4c79-838f-6b8c1b6a6d0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/User Interface/alexnet_final_project.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Interface/lenet_final_project.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Interface/simpleCNN_final_project.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/AlexNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/LeNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/VGG19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/simpleCNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Final Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Final Project-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final Project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Interface/VGG19.py" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/VGG19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/Final Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/VGG19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/gc_COVID-835.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/gc_COVID-952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/gradcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/gradcam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/ui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/ui.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Interface/vgg_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/User Interface/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/SimpleCNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/simpleCNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +44,121 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CHWpKDBEQXyKFcBODsHiKq62Lm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "last_opened_file_path": "D:/Newcaslte/CSC8099-ML-For-Medical-Diagnosis/User Interface"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Newcaslte\CSC8099-ML-For-Medical-Diagnosis\User Interface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Newcaslte\CSC8099-ML-For-Medical-Diagnosis\User Interface" />
+      <recent name="D:\Newcaslte\CSC8099-ML-For-Medical-Diagnosis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC8099-ML-For-Medical-Diagnosis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/User Interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/User Interface/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC8099-ML-For-Medical-Diagnosis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/User Interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/User Interface/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC8099-ML-For-Medical-Diagnosis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/User Interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Newcaslte\CSC8099-ML-For-Medical-Diagnosis\User Interface\predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC8099-ML-For-Medical-Diagnosis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/User Interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/User Interface/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.predict (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.vgg_predict" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,5 +170,19 @@
       <updated>1658460171759</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

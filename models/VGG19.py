@@ -110,7 +110,7 @@ class VGG19(nn.Module):
         self.fc17 = nn.Sequential(
             nn.Linear(int(512 * img_size * img_size / 32 / 32), 4096),
             nn.ReLU(inplace=True),
-            nn.Dropout(p=0.5)  # 默认就是0.5
+            nn.Dropout(p=0.5)
         )
 
         self.fc18 = nn.Sequential(
@@ -140,5 +140,5 @@ class VGG19(nn.Module):
 
 
 if __name__ == '__main__':
-    model = VGG19()
-    print(model)  # print model of vgg19
+    vgg19 = VGG19()
+    print(vgg19)  # print model of vgg19

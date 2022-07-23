@@ -4,7 +4,7 @@ import torch
 from PIL import Image
 from DataPreprocess import data_transform
 from gradcam_utils import GradCAM, show_cam_on_image
-from VGG19 import VGG19
+from models.VGG19 import VGG19
 import cv2
 
 
@@ -37,4 +37,4 @@ def heatmap(weight, img_path):
 
 
 if __name__ == '__main__':
-    heatmap("./vgg19_final_project.pth", "./test/0/COVID-851.png")
+    heatmap("../model_parameters/vgg19_final_project.pth", "./test/0/COVID-851.png")

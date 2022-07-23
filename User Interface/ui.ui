@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>502</width>
-    <height>261</height>
+    <width>493</width>
+    <height>416</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -55,7 +55,7 @@
   <widget class="QLabel" name="outputImage">
    <property name="geometry">
     <rect>
-     <x>290</x>
+     <x>260</x>
      <y>20</y>
      <width>201</width>
      <height>171</height>
@@ -65,17 +65,69 @@
     <string>image2</string>
    </property>
   </widget>
-  <widget class="QTextEdit" name="textEdit">
+  <widget class="QTextEdit" name="textEdit1">
    <property name="enabled">
     <bool>false</bool>
    </property>
    <property name="geometry">
     <rect>
-     <x>240</x>
-     <y>210</y>
-     <width>251</width>
-     <height>41</height>
+     <x>20</x>
+     <y>260</y>
+     <width>461</width>
+     <height>21</height>
     </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit2">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>290</y>
+     <width>461</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit3">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>320</y>
+     <width>461</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit4">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>350</y>
+     <width>461</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>380</y>
+     <width>481</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>HINT: Results are for guidance only and should not be used as a medical basis</string>
    </property>
   </widget>
  </widget>
