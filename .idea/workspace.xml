@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6edd27d5-ebbd-4c79-838f-6b8c1b6a6d0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/User Interface/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Final Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Final Project-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/AlexNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/AlexNet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/SimpleCNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/SimpleCNN.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CHWpKDBEQXyKFcBODsHiKq62Lm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6edd27d5-ebbd-4c79-838f-6b8c1b6a6d0c" name="Default Changelist" comment="" />
+      <created>1658460171759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658460171759</updated>
+    </task>
+    <servers />
+  </component>
+</project>
